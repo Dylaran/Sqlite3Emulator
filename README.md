@@ -1,5 +1,4 @@
 # Sqlite3Emulator
-Project for CSE480: Database Systems at MSU.
 
 This project is a Python module that emulates the behaviour of the built-in module sqlite3, that is able to execute SQL statements.
 
